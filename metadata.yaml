@@ -1,0 +1,29 @@
+_repo: Merry-s-Book-of-Puzzles_53847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stearns, J. N. (John Newton)
+    aliases:
+    - Merry, Robert
+    - Merry, R. (Robert)
+    - Merry, Uncle (Robert)
+    - Stearns, John Newton
+    birthdate: 1829
+    deathdate: 1895
+    gutenberg_agent_id: '47570'
+    url: http://www.gutenberg.org/2009/agents/47570
+description: ''
+gutenberg_issued: '2016-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Puzzles'
+- GITenberg
+title: Merry's Book of Puzzles
+url: http://www.gutenberg.org/ebooks/53847
